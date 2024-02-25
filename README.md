@@ -4,7 +4,11 @@ Stack is the data structure chosen because it works best with the nature of math
 
 # Table Of Contents
 Infix Evaluator
+
 Infix To Postfix Conversion
+
 Postfix Evaluator
+
 Stack
+
 test
