@@ -20,5 +20,6 @@ Project Report
 
 # Usage:
 To use the expression conversion and evaluator:
+
 Compile all the .java files: javac *.java
 Run the test.java file to get output of table of evaluation times.
